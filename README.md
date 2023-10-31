@@ -99,12 +99,12 @@ This nomination isn't just about me; it's a testament to the opportunities and g
    
    <br>
    <br>
-   <a href="https://twitter.com/_Roro1839" target="_blank">
+   <a href="https://twitter.com/Roro65bm" target="_blank">
 <img width=25% height=50% src="https://img.shields.io/badge/-Follow Me-white?style=flat&logo=twitter&logoColor=blue&link=https://twitter.com/_Roro1839)](https://twitter.com/_Roro1839"/>
 </a>
    <br>
    <br>
-<a href="https://www.linkedin.com/in/aisha-khalifan-433227b5/" target="_blank">
+<a href="https://www.linkedin.com/in/ronaldo-cheruiyot-059939266/" target="_blank">
 <img width=25% height=50% src="https://img.shields.io/badge/-Connect With Me-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aisha-khalifan-433227b5/)](https://www.linkedin.com/in/aisha-khalifan-433227b5/"/>
 </a>
    <br>
@@ -120,8 +120,8 @@ This nomination isn't just about me; it's a testament to the opportunities and g
    
 <h3 align="center"><a href="https://github.com/Roro1839"><img width=15% alt="Phone" src="static/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="static/wannatalk.svg"/></a></h3>
 <div align=center>
-   <a href="mailto:Roro183945@gmail.com" target="_blank">
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=Roro183945@gmail.com" />
+   <a href="mailto:ronaldokipkirui90@gmail.com" target="_blank">
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=ronaldokipkirui90@gmail.com" />
    </a>
  </div>
    <!--
