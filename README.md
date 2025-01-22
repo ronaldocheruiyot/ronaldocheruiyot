@@ -112,13 +112,13 @@ This nomination isn't just about me; it's a testament to the opportunities and g
 </p>
    
 <div align=center>
-   <a href="https://github.com/Roro1839">
+   <a href="https://github.com/ronaldocheruiyot">
    <img height=50 width=100% src="static/divider.gif">
    </a>
 </div>
 
    
-<h3 align="center"><a href="https://github.com/Roro1839"><img width=15% alt="Phone" src="static/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="static/wannatalk.svg"/></a></h3>
+<h3 align="center"><a href="https://github.com/ronaldocheruiyot"><img width=15% alt="Phone" src="static/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="static/wannatalk.svg"/></a></h3>
 <div align=center>
    <a href="mailto:ronaldokipkirui90@gmail.com" target="_blank">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=ronaldokipkirui90@gmail.com" />
@@ -128,7 +128,7 @@ This nomination isn't just about me; it's a testament to the opportunities and g
 <a href="https://wa.me/+254714551030?text=Hey%20AishaK,%20I%20got%20your%20contact%20from%20GitHub.%20Looking%20forward%20to%20connecting%20with%20you." target="_blank"><img src="https://img.shields.io/badge/whatsapp-%4fce5d.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 -->
 <div align=center>
-   <a href="https://github.com/Roro1839">
+   <a href="https://github.com/ronaldocheruiyot">
    <img height=50 width=100% src="static/divider.gif">
    </a>
 </div>
@@ -141,16 +141,16 @@ This nomination isn't just about me; it's a testament to the opportunities and g
 </div>
  -->
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Roro1839&show_icons=true&locale=en&layout=compact&count_private=true&langs_count=15&theme=transparent" alt="Roro1839" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Roro1839&show_icons=true&locale=en&theme=radical" alt="Roro1839" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Roro1839&theme=dark" alt="Roro1839" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronaldocheruiyot&show_icons=true&locale=en&layout=compact&count_private=true&langs_count=15&theme=transparent" alt="Roro1839" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ronaldocheruiyot&show_icons=true&locale=en&theme=radical" alt="ronaldocheruiyot" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronaldocheruiyot&theme=dark" alt="ronaldocheruiyot" /></p>
 <!--
 [![Aisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roro1839)](https://github.com/Roro1839/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roro1839&layout=compact)](https://github.com/Roro1839/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldocheruiyot&layout=compact)](https://github.com/ronaldocheruiyot/github-readme-stats)
 -->
 <div align=center>
-   <a href="https://github.com/Roro1839">
+   <a href="https://github.com/ronaldocheruiyot">
    <img height=50 width=100% src="static/divider.gif">
    </a>
 </div>
