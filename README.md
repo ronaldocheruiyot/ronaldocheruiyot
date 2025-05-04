@@ -9,13 +9,6 @@ You can click the Preview link to take a look at your changes.
    <img height=50 width=100% src="static/divider.gif">
    </a>
 </div>
-## 🚀 Exciting News! Nominated for BEST PORTFOLIO PROJECT(TEAMS) 🌟
-
-After completing the ALX Software Engineering Program, I'm thrilled to share that I've been nominated for BEST PORTFOLIO PROJECT(TEAMS)! This recognition means a lot to me, and it wouldn't have been possible without the incredible ALX community, my mentors, and my fellow learners.
-
-This nomination isn't just about me; it's a testament to the opportunities and growth that the ALX SE Program offers. I'm excited to continue contributing to open-source projects and pushing the boundaries of software development. Thanks for being part of this journey! 👩‍💻🚀
-
-#ALXSE #SoftwareEngineering #DoingHardThings
 
 <h1 align="center"><a href="https://github.com/Roro1839"><img width=7% height=15% src="static/Hi.gif"/></a> Hi I'm Ronaldo Cheruiyot(💻💖☕).. ⚡ I am a...
    <a href="https://github.com/Roro1839">
