@@ -10,25 +10,25 @@ You can click the Preview link to take a look at your changes.
    </a>
 </div>
 
-<h1 align="center"><a href="https://github.com/Roro1839"><img width=7% height=15% src="static/Hi.gif"/></a> Hi I'm Ronaldo Cheruiyot(💻💖☕).. ⚡ I am a...
-   <a href="https://github.com/Roro1839">
+<h1 align="center"><a href="https://github.com/ronaldocheruiyot"><img width=7% height=15% src="static/Hi.gif"/></a> Hi I'm Ronaldo Cheruiyot(💻💖☕).. ⚡ I am a...
+   <a href="https://github.com/ronaldocheruiyot">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer" />
    </a>
 </h1>
 <div align=center>
-   <a href="https://github.com/Roro1839" target="_blank">
+   <a href="https://github.com/ronaldocheruiyot" target="_blank">
    <img align="right" alt="Coding" width=45% height=100% src="static/hijab.jpeg" /></a>
    <h4>
       🌱 I’m currently learning:
-      <a href="https://github.com/Roro1839">
+      <a href="https://github.com/ronaldocheruiyot">
       <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Software+Engineering;Django+%26+React;and+Other+Frameworks" /></a>
       <br>      
       👯 I’m looking to collaborate on:
-      <a href="https://github.com/Roro1839">
+      <a href="https://github.com/ronaldocheruiyot">
       <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=API+Developments;Web+App+Projects+AND;Desktop+App+Developments" /></a>
       <br>
       💬 Talk to me all about:
-      <a href="https://github.com/Roro1839">
+      <a href="https://github.com/ronaldocheruiyot">
       <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%234AF736&center=true&vCenter=true&width=250%&height=50%&lines=New+Technologies;My+Projects;Cyber+Sec" /></a>
    </h4>
 </div>
@@ -127,7 +127,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <!--
 <div align=center>            
-   <a href="https://github.com/Roro1839">
+   <a href="https://github.com/ronaldocheruiyot">
    <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=a6129c&center=true&vCenter=true&width=450%&lines=Watch+a+Snake+eat+my+contributions+!" />
    <img align="center" alt="Snake" width=100% src="static/github-snake.svg" />
    </a>
@@ -138,7 +138,7 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ronaldocheruiyot&show_icons=true&locale=en&theme=radical" alt="ronaldocheruiyot" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronaldocheruiyot&theme=dark" alt="ronaldocheruiyot" /></p>
 <!--
-[![Aisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roro1839)](https://github.com/Roro1839/github-readme-stats)
+[![Ronaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldocheruiyot)](https://github.com/ronaldocheruiyot/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldocheruiyot&layout=compact)](https://github.com/ronaldocheruiyot/github-readme-stats)
 -->
